@@ -91,6 +91,8 @@ The project is implemented using Python and deep learning frameworks, primarily 
 - Matplotlib
 
 You can install all dependencies using the `requirements.txt` file provided.
+![](https://komarev.com/ghpvc/?username=Deepayanbasu07)
 
 ```bash
 pip install -r requirements.txt
+
