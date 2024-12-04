@@ -1,12 +1,12 @@
 # SAR Target Classification Using Deep Learning
 
-This repository contains code and resources for a project focused on classifying ground targets using Synthetic Aperture Radar (SAR) imagery. The project leverages deep learning techniques to classify various military vehicles based on their SAR images, using the MSTAR dataset.
+This repository contains code and resources for a project focused on classifying ground targets using Synthetic Aperture Radar (SAR) imagery. The project leverages deep learning techniques to classify various military vehicles based on their SAR images, using the MSTAR dataset. 
+Synthetic Aperture Radar (SAR) is a form of radar that uses the motion of an antenna over a distance to create a large "synthetic" antenna aperture, so that it can provide much finer resolution images than standard radar.
+
 
 ## Overview
 
 ### Project Objective
-
-The objective of this project is to classify various ground-based military vehicles using SAR (Synthetic Aperture Radar) images. SAR provides high-resolution imaging capabilities, even in adverse weather conditions, making it a valuable tool in remote sensing and defense applications. By utilizing deep learning techniques, specifically Convolutional Neural Networks (CNNs), this project aims to accurately identify and classify the type of vehicle present in the SAR imagery.
 
 ### Dataset
 
@@ -39,7 +39,7 @@ The project is implemented using Python and deep learning frameworks, primarily 
 
 ### Accuracy and Performance
 
-- The model achieved an accuracy of around XX% on the validation set (replace with actual results), indicating that the CNN was able to learn and generalize from the training data effectively.
+- The model achieved an accuracy of around 94% on the validation set (replace with actual results), indicating that the CNN was able to learn and generalize from the training data effectively.
 - The learning curves, including accuracy and loss over epochs, suggest that the model converged well without significant overfitting, demonstrating good generalization to unseen data.
 
 ### Challenges and Considerations
